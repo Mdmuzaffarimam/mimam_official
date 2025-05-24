@@ -470,13 +470,12 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 
  
     RESTART_TXT = """
-<b>{} ʙᴏᴛ ʀᴇꜱᴛᴀʀᴛᴇᴅ ꜱᴜᴄᴄᴇꜱꜱꜰᴜʟʟʏ !
+<b><a href='https://t.me/MissRozyXbot'>Miss Rozy</a> Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
 
-📅 ᴅᴀᴛᴇ : <code>{}</code>
-⏰ ᴛɪᴍᴇ : <code>{}</code>
-🌐 ᴛɪᴍᴇᴢᴏɴᴇ : <code>ᴀꜱɪᴀ/ᴋᴏʟᴋᴀᴛᴀ</code>
-🛠️ ʙᴜɪʟᴅ ꜱᴛᴀᴛᴜꜱ : <code>v2.7.1 [ ꜱᴛᴀʙʟᴇ ]</code>
-</b>"""
+📅 Dᴀᴛᴇ : <code>{}</code>
+⏰ Tɪᴍᴇ : <code>{}</code>
+🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code>
+🛠️ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: <code>v2.7.1 [ Sᴛᴀʙʟᴇ ]</code></b>"""
 
     LOGO = """꧁𒀱m̳̿͟͞i̳̿͟͞m̳̿͟͞a̳̿͟͞m̳̿͟͞ o̳̿͟͞f̳̿͟͞f̳̿͟͞i̳̿͟͞c̳̿͟͞i̳̿͟͞a̳̿͟͞l̳̿͟͞x̳̿͟͞𒀱꧂"""
  
