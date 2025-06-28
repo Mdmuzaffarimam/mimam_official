@@ -37,11 +37,11 @@ REQUEST_TO_JOIN_MODE = bool(environ.get('REQUEST_TO_JOIN_MODE', True)) # Set Tru
 TRY_AGAIN_BTN = bool(environ.get('TRY_AGAIN_BTN', False)) # Set True Or False (This try again button is only for request to join fsub not for normal fsub)
 
 # This Is Force Subscribe Channel, also known as Auth Channel 
-auth_channel = environ.get('AUTH_CHANNEL', '1002528229701 -1002232443823') # give your force subscribe channel id here else leave it blank
+auth_channel = environ.get('AUTH_CHANNEL', '-1002745555397 -1002232443823') # give your force subscribe channel id here else leave it blank
 AUTH_CHANNEL = int(auth_channel) if auth_channel and id_pattern.search(auth_channel) else None
 
 # This Channel Is For When User Request File With command or hashtag like - /request or #request
-reqst_channel = environ.get('REQST_CHANNEL_ID', '-1002232443823 1002528229701')
+reqst_channel = environ.get('REQST_CHANNEL_ID', '-1002232443823 -1002745555397')
 REQST_CHANNEL = int(reqst_channel) if reqst_channel and id_pattern.search(reqst_channel) else None
 
 # This Is Your Bot Support Group Id , Here Bot Will Not Give File Because This Is Support Group.
@@ -86,8 +86,8 @@ PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', 'MZAUTOFILTER') # Publi
 
 
 # Links
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+iLsXNAsaEwxjN2Nl')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/+dt5i84djlh4wNGM1')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/Movies_Tv_Serial_Request')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/MRN_RIPPER')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'Tv_Serial_Search_Group') # Support Chat Link Without https:// or @
 OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/mimam_officialx')
 
@@ -111,9 +111,9 @@ USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
 # Token Verification Info :
 VERIFY = bool(environ.get('VERIFY', True))
-VERIFY_SHORTLINK_URL = environ.get('VERIFY_SHORTLINK_URL', 'linkcents.com')
-VERIFY_SHORTLINK_API = environ.get('VERIFY_SHORTLINK_API', '97b4c035eaa8da4f8087584abd9f9030d33623d5')
-VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/MRN_Tutorial/1807')
+VERIFY_SHORTLINK_URL = environ.get('VERIFY_SHORTLINK_URL', 'papajiurl.com')
+VERIFY_SHORTLINK_API = environ.get('VERIFY_SHORTLINK_API', 'f2566f9573335044e60a2d14d537931e0a9ecd8d')
+VERIFY_TUTORIAL = environ.get('VERIFY_TUTORIAL', 'https://t.me/MRN_Tutorial/1805')
 
 # If You Fill Second Shortner Then Bot Attach Both First And Second Shortner And Use It For Verify.
 VERIFY_SECOND_SHORTNER = bool(environ.get('VERIFY_SECOND_SHORTNER', False))
