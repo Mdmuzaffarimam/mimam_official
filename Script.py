@@ -84,7 +84,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 2. ᴛʜɪꜱ ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛꜱ ʙᴜᴛᴛᴏɴꜱ ᴡɪᴛʜ ᴀɴʏ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴇᴅɪᴀ ᴛʏᴘᴇ.
 3. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 <b>ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ:</b>
-<code>[Button Text](buttonurl:https://t.me/MRN_RIPPER)</code>
+<code>[Button Text](buttonurl:https://t.me/Mrn_Officialx)</code>
 <b>ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ:</b>
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
 
@@ -253,7 +253,7 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b><a href="https://t.me/MRN_RIPPER">{file_name}</a></b>\n\n•─────•─────────•─────•\n<b>✯ 𝖩𝗈𝗂𝗇 ➥ <a https://t.me/MRN_RIPPER>[🍿 @MRN_RIPPER 🍿 ]\n✯ 𝖩𝗈𝗂𝗇 ➥ [🍿 @Movies_Tv_Serial_Request 🍿]\n•─────•─────────•─────•</a></b>""" 
+    CAPTION = """<b><a href="https://t.me/Mrn_Officialx">{file_name}</a></b>\n<b>•─────•─────────•─────•\n✯ MRN Uploaded ➥ @Mrn_Officialx\n✯ Chat Group ➥ @MRN_Chat_Group\n•─────•─────────•─────•</a></b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
@@ -759,3 +759,4 @@ Example:- /set_caption 📕 File Name: {filename}
 
 
     
+
